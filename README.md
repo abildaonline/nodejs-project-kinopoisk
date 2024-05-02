@@ -15,5 +15,5 @@ Node.JS Project Kinopoisk
 #### Технологии:
 
 - **Фронтенд**: HTML, CSS, JavaScript
-- **Бэкенд**: Node.js, Express.js), MongoDB
+- **Бэкенд**: Node.js, Express.js, MongoDB
 - **Аутентификация и авторизация**: JSON Web Tokens (JWT), Passport.js
